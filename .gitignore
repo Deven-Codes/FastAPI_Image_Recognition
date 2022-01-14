@@ -1,0 +1,4 @@
+env/
+tflite_runtime.txt
+windows_requirement.txt
+model.zip
